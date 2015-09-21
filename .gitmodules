@@ -1,0 +1,30 @@
+[submodule "bundle/colorschemes"]
+	path = bundle/colorschemes
+	url = https://github.com/flazz/vim-colorschemes.git
+[submodule "bundle/PHP-Indenting-for-Vim"]
+	path = bundle/PHP-Indenting-for-Vim
+	url = https://github.com/2072/PHP-Indenting-for-VIm.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/phpdoc.vim"]
+	path = bundle/phpdoc.vim
+	url = https://github.com/vexxor/phpdoc.vim.git
+[submodule "bundle/sparkup"]
+	path = bundle/sparkup
+	url = https://github.com/rstacruz/sparkup.git
+[submodule "bundle/splitjoin.vim"]
+	path = bundle/splitjoin.vim
+	url = https://github.com/AndrewRadev/splitjoin.vim
+[submodule "bundle/unite.vim"]
+	path = bundle/unite.vim
+	url = https://github.com/Shougo/unite.vim
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = https://github.com/bling/vim-airline
+[submodule "bundle/vim-eunuch"]
+	path = bundle/vim-eunuch
+	url = git://github.com/tpope/vim-eunuch.git
+[submodule "bundle/vim-phpmanual"]
+	path = bundle/vim-phpmanual
+	url = https://github.com/alvan/vim-phpmanual
