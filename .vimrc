@@ -16,6 +16,8 @@ endif
 
 if has("gui_running")
 	colorscheme strange
+	set guifont=Input:h12
+	set linespace=2
 	"colorscheme oceanblack
 endif
 
