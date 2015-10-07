@@ -1,4 +1,6 @@
 set nocompatible
+set ttyfast
+
 :execute pathogen#infect()
 let mapleader = "\<Space>"
 filetype plugin indent on
