@@ -24,7 +24,7 @@ if has("gui_running")
 endif
 
 "------ Essentials  ------
-set ttyfast
+set synmaxcol=9999
 set termencoding=utf-8 " terminal encoding
 set encoding=utf8 " encoding
 set fileencodings=utf8,cp1251 " possible file encodings
